@@ -99,7 +99,7 @@ Para executar o script:
 
 ## 🏁 Conclusão
 Este script oferece uma solução rápida para configurar um servidor web Apache e realizar o deployment de uma aplicação web específica. É adequado para ambientes de desenvolvimento ou demonstração, mas deve ser adaptado para uso em produção adicionando verificações de segurança e tratamento de erros apropriados. O script exemplifica bem o conceito de IAC para deployment de aplicações web simples.
-Neste exemplo, foi carregando o mesmo site utilizado pelo orientador Denilson Bonatti. Como melhoria para o projeto será criado um site para ser utilizado como portifólio de projeto que irá substituir o site utiliado inicialmente.
+Neste exemplo, foi carregando o mesmo site utilizado pelo orientador Denilson Bonatti. Como melhoria futura para o projeto, deverá ser criado um site para ser utilizado como portfólio de projeto que irá substituir o site utilizado inicialmente.
 
 ## 📜 Licença
 
